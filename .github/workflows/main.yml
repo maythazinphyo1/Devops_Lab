@@ -22,7 +22,7 @@ jobs:
         run: mvn package
       - name: Current Dir
         run: ls -a
-      - name: Build Docker Image
+      - name: Build
         run: docker build -t se_methods .
       - name: Run image
         run: docker run --network se-methods --name semcontainer se_methods
