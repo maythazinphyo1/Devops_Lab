@@ -7,6 +7,6 @@
 [![Releases](https://img.shields.io/github/release/maythazinphyo1/Devops_Lab/all.svg?style=flat-square)](https://github.com/maythazinphyo1/Devops_Lab/releases)
 
 # Software Engineering Methods
-![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/maythazinphyo1/Devops_Lab/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
+![GitHub Workflow Status develop](https://img.shields.io/github/workflow/status/maythazinphyo1/Devops_Lab/A%20workflow%20for%20my%20Hello%20World%20App/develop?style=flat-square)
 
 [//]: # (https://img.shields.io/github/workflow/status/maythazinphyo1/Devops_Lab/A%20workflow%20for%20my%20Hello%20World%20App/develop)
