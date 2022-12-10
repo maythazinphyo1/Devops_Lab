@@ -1,4 +1,4 @@
-# SET09623 Devops_Lab
+# SET09623 Devops Lab
 
 ![workflow](https://github.com/maythazinphyo1/Devops_Lab/actions/workflows/main.yml/badge.svg)
 
