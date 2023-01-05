@@ -6,10 +6,11 @@
 
 [![Releases](https://img.shields.io/github/release/maythazinphyo1/Devops_Lab/all.svg?style=flat-square)](https://github.com/maythazinphyo1/Devops_Lab/releases)
 
-Develop Build Status
+Develop Build Status (https://img.shields.io/github/actions/workflow/status/maythazinphyo1/Devops_Lab/main.yml?branch=develop)
+https://img.shields.io/github/actions/workflow/status/maythazinphyo1/Devops_Lab/main.yml?branch=master
 
 [//]: # (https://img.shields.io/github/actions/workflow/status/<user>/<repo>/test.yml?branch=main)
-![example branch parameter](https://img.shields.io/github/develop/maythazinphyo1/Devops_Lab/all.svg?style=flat-square)](https://github.com/maythazinphyo1/Devops_Lab/develop)
+
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/maythazinphyo1/Devops_Lab/main.yml?branch=develop)
 
 # Software Engineering Methods
