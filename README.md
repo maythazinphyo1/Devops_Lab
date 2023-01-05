@@ -9,7 +9,7 @@
 Develop Build Status
 
 [//]: # (https://img.shields.io/github/actions/workflow/status/<user>/<repo>/test.yml?branch=main)
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=develop)
+![example branch parameter](https://img.shields.io/github/develop/maythazinphyo1/Devops_Lab/all.svg?style=flat-square)](https://github.com/maythazinphyo1/Devops_Lab/develop)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/maythazinphyo1/Devops_Lab/main.yml?branch=develop)
 
 # Software Engineering Methods
